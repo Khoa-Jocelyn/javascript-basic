@@ -6,7 +6,7 @@
 
 
 ### Chapter 2: Javascript Basic
-1. Cách chạy javascript ( add script to web page)
+1. Cách chạy javascript (add script to web page)
 2. The Browser console
 3. Variables, Constants, Comment (data types)
 4. Strings
@@ -36,16 +36,16 @@
 
 ### Chapter 5: Array methods
 1. Filter/Find
-2.Map
-3.Reduce
-4.Sort
-5.(lodash)
+2. Map
+3. Reduce
+4. Sort
+5. (lodash)
 
 
 ### ==== Advances ====
-Async Javascript
-Local Storage
-Object oriented Javascript
+**Async Javascript**
+**Local Storage**
+**Object oriented Javascript**
 
 
-ES6 Features: Spread & REst/ Sets/Symbols
+**ES6 Features: Spread & REst/ Sets/Symbols**
