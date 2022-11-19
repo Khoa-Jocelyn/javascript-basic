@@ -8,7 +8,7 @@
 ### Chapter 2: Javascript Basic
 1. Cách chạy javascript (add script to web page) (Video - copyright by Hỏi Dân IT)[https://www.youtube.com/watch?v=x2rS0Z1KgoQ&list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo&index=5]
 2. The Browser console (Video - copyright by Hỏi Dân IT)[https://www.youtube.com/watch?v=CrqGVoc8t_8&list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo&index=6]
-3. Variables, Constants, Comment (data types)
+3. Variables, Constants, Comment (data types) (Video - copyright by Hỏi Dân IT)[https://www.youtube.com/watch?v=6o_6yqbzU8U&list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo&index=7]
 4. Strings
 5. Các method với strings
 6. Numbers
